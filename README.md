@@ -22,8 +22,8 @@ With added recipes, users can create meal plans for any day of the week.
 
 ### website screenshots (click to enlarge):
 <p float="left">
-  <img title="Main page" src="https://user-images.githubusercontent.com/98467969/168395543-853c9f30-1b6a-4f9e-8998-a2d3f61bfd8c.png" height="300 width="50" />
-  <img title="Dashboard" src="https://user-images.githubusercontent.com/98467969/168395559-4dae7ade-e840-4219-b652-a737b6b93c1f.png" height="300 width="50" /> 
-  <img title="Recipe's details" src="https://user-images.githubusercontent.com/98467969/168395589-bee622eb-9129-4fc1-a9a8-a08054f06e89.png" height="300 width="50" />
-    <img title="Add meals to the plan" src="https://user-images.githubusercontent.com/98467969/168395645-1cb1388b-e82e-4323-af82-b4c765771717.png" height="300 width="50" />
+  <img title="Main page" src="https://user-images.githubusercontent.com/98467969/168395543-853c9f30-1b6a-4f9e-8998-a2d3f61bfd8c.png" height="300 width="10" />
+  <img title="Dashboard" src="https://user-images.githubusercontent.com/98467969/168395559-4dae7ade-e840-4219-b652-a737b6b93c1f.png" height="300 width="10" /> 
+  <img title="Recipe's details" src="https://user-images.githubusercontent.com/98467969/168395589-bee622eb-9129-4fc1-a9a8-a08054f06e89.png" height="300 width="10" />
+    <img title="Add meals to the plan" src="https://user-images.githubusercontent.com/98467969/168395645-1cb1388b-e82e-4323-af82-b4c765771717.png" height="300 width="10" />
 </p>
