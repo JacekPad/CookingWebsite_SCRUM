@@ -1,6 +1,6 @@
 
 
-# ScrumLab
+# ZaplanujJedzonko
 
 ## ZaplanujJedzonko
 
