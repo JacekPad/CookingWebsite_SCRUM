@@ -9,6 +9,7 @@ Website allows users to edit their own recipes or delete them.
 User can set recipe's name, list of ingredients, time required to prepare the meal and lastly add the description how to prepare the meal.
 With added recipes, users can create meal plans for any day of the week. 
 
+Website was made as a parto of the SCRUM Agile practice.
 ## Technologies:
 - MYSQL
 - Servlets
